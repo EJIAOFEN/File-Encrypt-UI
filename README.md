@@ -3,7 +3,7 @@
 > 一款基于块间置换算法的文件加密/解密工具，提供图形界面。
 
 ![python 3.6+](https://img.shields.io/badge/python-3.6+-blue)
-![AGPL](https://img.shields.io/badge/license-AGPL-white)
+![[MIT](https://img.shields.io/badge/license-MIT-blue)
 
 本工具采用块间置换（Block Permutation）加密，过程如下：
 
