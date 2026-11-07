@@ -1,4 +1,4 @@
-# Encrypt-UI
+# File-Encrypt-UI
 ## 又名 cryptUI
 > 一款基于块间置换算法的文件加密/解密工具，提供图形界面。
 
